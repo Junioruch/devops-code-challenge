@@ -17,6 +17,9 @@ Fork this repo as a base. You may change any code in this repository to suit the
 You will be evaluated on the ease to replicate your infrastructure. This is a combination of quality of the instructions, as well as any scripts to automate the overall setup process.
 
 # Setup your environment
+Created a vpc with two subnets, one private and one public 
+Created a route table
+created two security groups and one IAM role for ssm
 Install nodejs. Binaries and installers can be found on nodejs.org.
 https://nodejs.org/en/download/
 
