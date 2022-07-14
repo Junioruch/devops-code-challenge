@@ -20,6 +20,7 @@ You will be evaluated on the ease to replicate your infrastructure. This is a co
 Created a vpc with two subnets, one private and one public 
 Created a route table
 created two security groups and one IAM role for ssm
+Initially created T2.micro instance but had to upgrade to T2.small 
 Install nodejs. Binaries and installers can be found on nodejs.org.
 https://nodejs.org/en/download/
 
